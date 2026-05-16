@@ -6,7 +6,7 @@
 
 # spark-extra-platforms
 
-This repository contains implementations of [spark](https://github.com/lucko/spark) for additional platforms.
+This repository contains implementations of [spark](https://github.com/lucko/spark) for additional platforms. This is not the official plugin.
 
 These releases do not receive the same level of support as the main spark plugins/mods. They are provided as-is, and may be out of date or contain bugs. If you run into problems, please open an issue on GitHub and/or raise a pull request to fix!
 
